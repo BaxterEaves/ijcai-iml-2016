@@ -1,0 +1,7 @@
+cython
+nltk
+numpy
+scipy
+matplotlib
+seaborn
+pytest
