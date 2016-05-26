@@ -1,5 +1,5 @@
 # Teaching topic models
-Code for our submission to the [2016 IJCAI workshop on Interactive Machine Learning: Connecting Humans and Machines](https://sites.google.com/site/ijcai2016iml/), "Toward a general, scaleable framework for Bayesian teaching with applications to topic models".
+Code for our submission to the [2016 IJCAI workshop on Interactive Machine Learning: Connecting Humans and Machines](https://sites.google.com/site/ijcai2016iml/), "Toward a general, scaleable framework for Bayesian teaching with applications to topic models" [(ArXiv Preprint)](http://arxiv.org/abs/1605.07999).
 
 ## Installation
 Add the install directory to your `PYTHONPATH` and execute
